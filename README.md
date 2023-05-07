@@ -1,4 +1,4 @@
-Sure! Here's an example of a possible README file:
+This program is intended for personal and educational purposes ONLY, and was not used for commercial use.
 
 # NBA First Points Analyzer
 
