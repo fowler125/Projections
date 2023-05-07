@@ -1,0 +1,6 @@
+ New York  at   Boston
+ Dallas  at   Phoenix
+ Chicago  at   Charlotte
+ Cleveland  at   Houston
+ Detroit  at   Brooklyn
+ San Antonio  at   LA Clippers

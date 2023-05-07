@@ -1,0 +1,8 @@
+ Phoenix  at   Boston
+ Sacramento  at   Indiana
+ Atlanta  at   Utah
+ Portland  at   Washington
+ Toronto  at   Houston
+ Philadelphia  at   San Antonio
+ Orlando  at   Minnesota
+ Charlotte  at   Detroit

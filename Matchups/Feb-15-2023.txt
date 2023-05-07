@@ -1,0 +1,10 @@
+ Cleveland  at   Philadelphia
+ Dallas  at   Denver
+ Miami  at   Brooklyn
+ New York  at   Atlanta
+ New Orleans  at   LA Lakers
+ Utah  at   Memphis
+ Chicago  at   Indiana
+ Detroit  at   Boston
+ San Antonio  at   Charlotte
+ Houston  at   Okla City
