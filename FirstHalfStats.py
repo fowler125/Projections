@@ -13,7 +13,7 @@ Teams = {}
 now = datetime.now()
 today = date.today()
 d4 = today.strftime("%b-%d-%Y")
-#print(game_chart.prettify())
+
 def FirstHalfStats():
     html = urlopen(first_half_url)
     stats_page = BeautifulSoup(html,'html.parser')
