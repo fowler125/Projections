@@ -50,7 +50,6 @@ def FirstHalfStats():
 
     #print(Teams)
 
-
 def GameMatchups():
     f = open(f"Matchups/{d4}.txt","w+")
     html = urlopen(games_url)
@@ -78,9 +77,6 @@ def GameMatchups():
 
             f.writelines(f"{new_string}\n")
 
-
-
-
 def ReformatString(string):
     query = string
     stopwords = {'what','who','is','a','at','is','he',''}
@@ -95,10 +91,6 @@ def ReformatString(string):
     if resultwords[1] in prewords:
         resultwords[1] = resultwords[1] + ' ' + resultwords[2]
         resultwords.remove(resultwords[2])
-
-
-
-
 
     DisplayStats(Teams,resultwords[0],resultwords[1])
     return (resultwords)
@@ -130,7 +122,6 @@ def DisplayStats(list,team1,team2):
     SecondTeam = list2[0]
     list1.remove(list1[0])
     list2.remove(list2[0])
-
 
     pointer = 0
 
@@ -168,13 +159,9 @@ def GridBuilder(TeamOneName,TeamNameTwo,team_one,team_two,team_total):
     print('\n')
 
 
-
-
-
 def Combination():
-
     FirstHalfStats()
     GameMatchups()
 
-
-Combination()
+if __name__ == '__combination__':
+    Combination()
